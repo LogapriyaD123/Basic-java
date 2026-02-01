@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class witch {
+public class switchcase {
     public static void main(String[] args) {
         Scanner cs = new Scanner(System.in);
         int  mon = cs.nextInt();
